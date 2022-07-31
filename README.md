@@ -12,7 +12,7 @@ All the dimensions below reflect a Trident 250mm build.
 ### Corners
 
 <p align="center">
-  <img src="images/corners.png" width="800">
+  <img src="images/corner.png" width="800">
 </p>
 
 ```
