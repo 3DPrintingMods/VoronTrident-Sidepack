@@ -1,5 +1,9 @@
 # Voron Trident - Sidepack
 
+**DISCLAIMER**: This is NOT an official Voron design.
+
+Mod designed by `kyledavis417#2007`.
+
 <p align="center">
   <img src="images/ss3.png" width="800">
 </p>
@@ -9,10 +13,6 @@
 </p>
 
 Picture by `Kayosmaker`.
-
-**DISCLAIMER**: This is NOT an official Voron design.
-
-Mod designed by `kyledavis417#2007`.
 
 
 ## Frame
