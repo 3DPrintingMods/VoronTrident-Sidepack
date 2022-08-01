@@ -1,10 +1,14 @@
 # Voron Trident - Sidepack
 
 <p align="center">
+  <img src="images/ss3.png" width="800">
+</p>
+
+<p align="center">
   <img src="images/trident.jpeg" width="800">
 </p>
 
-Picture by `Kayosmaker`
+Picture by `Kayosmaker`.
 
 **DISCLAIMER**: This is NOT an official Voron design.
 
