@@ -12,7 +12,7 @@ Mod designed by `kyledavis417#2007`.
   <img src="images/trident.jpeg" width="800">
 </p>
 
-Picture by `Kayosmaker`.
+`kyledavis417#2007` build, based on the V1.8 frame. Picture by `Kayosmaker`.
 
 
 ## Frame
