@@ -5,7 +5,7 @@
 Mod designed by `kyledavis417#2007`.
 
 <p align="center">
-  <img src="images/ss3.png" width="800">
+  <img src="images/ss4.png" width="800">
 </p>
 
 <p align="center">
