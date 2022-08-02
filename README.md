@@ -27,8 +27,8 @@ All the dimensions below reflect a Trident 250mm build.
 
 ```
 2x HFSB5-2020-500-LCP-RCP
-2x HFSB5-2040-500-LCP-RCP-AP360
-2x HFSB5-2040-460-TPW-AP340 v1
+2x HFSB5-2040-500-LCP-RCP-AH360
+2x HFSB5-2040-460-TPW-AH340 
 ```
 
 ### Bottom
