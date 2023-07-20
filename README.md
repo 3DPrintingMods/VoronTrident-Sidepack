@@ -87,3 +87,31 @@ All the dimensions below reflect a Trident 250mm build.
 ```
 1x HFSB5-2020-330-LTP
 ```
+
+# Builds
+
+## Verethy
+
+<p align="center">
+  <img src="images/verethy_1.jpeg" width="800">
+</p>
+
+<p align="center">
+  <img src="images/verethy_1.jpeg" width="800">
+</p>
+
+## Genevamotion
+
+<p align="center">
+  <img src="images/verethy_1.jpeg" width="800">
+</p>
+
+<p align="center">
+  <img src="images/verethy_1.jpeg" width="800">
+</p>
+
+## DoubleT
+
+<p align="center">
+  <img src="images/doublet_1.jpeg" width="800">
+</p>
