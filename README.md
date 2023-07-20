@@ -97,17 +97,17 @@ All the dimensions below reflect a Trident 250mm build.
 </p>
 
 <p align="center">
-  <img src="images/verethy_1.jpeg" width="800">
+  <img src="images/verethy_2.jpeg" width="800">
 </p>
 
 ## Genevamotion
 
 <p align="center">
-  <img src="images/verethy_1.jpeg" width="800">
+  <img src="images/genevamotion_1.jpeg" width="800">
 </p>
 
 <p align="center">
-  <img src="images/verethy_1.jpeg" width="800">
+  <img src="images/genevamotion_2.jpeg" width="800">
 </p>
 
 ## DoubleT
